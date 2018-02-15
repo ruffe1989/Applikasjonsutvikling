@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListeDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="norske_fylker">
+        <item>Akershus</item>
+        <item>Aust-Agder</item>
+        <item>Buskerud</item>
+        <item>Finnmark</item>
+        <item>Hedmark</item>
+        <item>Hordaland</item>
+        <item>Møre og Romsdal</item>
+        <item>Nordland</item>
+        <item>Oppland</item>
+        <item>Oslo</item>
+        <item>Rogaland</item>
+        <item>Sogn og Fjordane</item>
+        <item>Telemark</item>
+        <item>Troms</item>
+        <item>Trøndelag</item>
+        <item>Vest-Agder</item>
+        <item>Vestfold</item>
+        <item>Østfold</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

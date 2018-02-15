@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="no.usn.kvisli.listedemo.Aktivitetsversjon.FylkeListeActivity">
+
+    <ListView
+        android:id="@+id/fylke_liste"
+        android:background="#e7e3e3"
+        android:listSelector="#6402ff4c"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollIndicators="end"
+        android:smoothScrollbar="true"
+        android:scrollbarFadeDuration="0"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+</android.support.constraint.ConstraintLayout>
